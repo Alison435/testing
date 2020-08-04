@@ -1,0 +1,12 @@
+#goal definition
+#string colour
+# We may want to change this
+#geometry_msgs/PoseStamped position
+string colour
+string shape
+---
+#result definition
+bool grasped
+---
+#feedback definition
+string status
